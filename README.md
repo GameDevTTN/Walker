@@ -2,6 +2,11 @@
 COMPSCI 715 Project
 ===================
 
+Recommended Hardware
+===================
+Android device, minimum version 2.3
+9x16 screen size
+
 Adjust energy drain
 -------------------
 For shorter user studies (under 30 minutes for each condition), we recommend lowering the max health variable under GameObject>Canvas>Energy using the unity editor.
