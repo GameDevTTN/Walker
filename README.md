@@ -1,5 +1,5 @@
 # Walker
-PS: Virtualpet.zip is the complete Unity project
+PS: virtual pet.zip is the complete Unity project
 COMPSCI 715 Project
 ===================
 Made with Unity Version 5.4.0f3
