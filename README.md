@@ -1,10 +1,13 @@
 # Walker
 COMPSCI 715 Project
 ===================
+Made with Unity Version 5.4.0f3
+
 
 Recommended Hardware
 ===================
 Android device, minimum version 2.3
+
 9x16 screen size
 
 Adjust energy drain
